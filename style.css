@@ -98,14 +98,12 @@ p {
     margin-bottom: 32px;
     color: #fff;
     /* changed quantity of f's in color */
-   
 }
 
 .benefit-cost {
     margin-bottom: 32px;
     color: #fff;
     /* changed quantity of f's in color */
-  
 }
 
 .benefit-lead h3 {
@@ -147,7 +145,8 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
+    color: #fff;
+    /* changed quantity of f's in color */
 }
 
 .online-reputation-management {
@@ -156,7 +155,8 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
+    color: #fff;
+    /* changed quantity of f's in color */
 }
 
 .social-media-marketing {
@@ -165,8 +165,8 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
-}
+    color: #fff;
+}/* changed quantity of f's in color */
 
 .search-engine-optimization img {
     max-height: 200px;
