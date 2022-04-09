@@ -7,5 +7,5 @@ Changes made:
 3.Added a CSS Variable for ease of use.
 4.Followed a sequential layout  
 
-Deployed URL: 
+5. Deployed URL: 
 https://aishaabdi1.github.io/homework1/
