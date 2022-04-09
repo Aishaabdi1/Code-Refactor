@@ -96,13 +96,15 @@ p {
 
 .benefit-brand {
     margin-bottom: 32px;
-    color: #ffff;
+    color: #fff;
+    /* changed quantity of f's in color */
    
 }
 
 .benefit-cost {
     margin-bottom: 32px;
     color: #fff;
+    /* changed quantity of f's in color */
   
 }
 
