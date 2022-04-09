@@ -90,17 +90,20 @@ p {
 
 .benefit-lead {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #fff;
+    /* changed quantity of f's in color */
 }
 
 .benefit-brand {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #ffff;
+   
 }
 
 .benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #fff;
+  
 }
 
 .benefit-lead h3 {
