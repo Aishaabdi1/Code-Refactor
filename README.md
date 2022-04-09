@@ -9,3 +9,6 @@ Changes made:
 
 5. Deployed URL: 
 https://aishaabdi1.github.io/homework1/
+
+## screenshot
+https://github.com/Aishaabdi1/homework1/blob/main/assets/images/01-html-css-git-homework-demo.png
